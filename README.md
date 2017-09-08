@@ -8,3 +8,6 @@
 
 http://highscalability.com/blog/2017/8/18/stuff-the-internet-says-on-scalability-for-august-18th-2017.html
 
+> @copyconstruct: "Node is not the best system to build a massive server web. I would definitely use Go for that" - creator of @nodejs
+
+http://highscalability.com/blog/2017/9/8/stuff-the-internet-says-on-scalability-for-september-8th-201.html
