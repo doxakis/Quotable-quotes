@@ -11,3 +11,12 @@ http://highscalability.com/blog/2017/8/18/stuff-the-internet-says-on-scalability
 > @copyconstruct: "Node is not the best system to build a massive server web. I would definitely use Go for that" - creator of @nodejs
 
 http://highscalability.com/blog/2017/9/8/stuff-the-internet-says-on-scalability-for-september-8th-201.html
+
+nameless912~ As a developer at a company that's trying to shove Lambda down our throats for EVERYTHING...AWS needs to get better at a few key things before Lambda/serverless become viable enough that I'll actually consider integrating them into my services: 1. Permissions are a nightmare. 2. Networking is equally nightmarish. 3. If the future of compute is serverless, then Lambda, Google Cloud Functions, and whatever half-baked monstrosity Azure has cooked up are going to have to get together and define a common runtime for these environments.
+
+@bridgetkromhout: Thought experiment: what if all your systems restart at once? How long does it take you to recover? *Can* you? @whereistanya #velocityconf
+
+@slightlylate: So true. I'll trade 10 devs who are high on abstractions and metaprogramming for one who gives a damn about the user.
+
+http://highscalability.com/blog/2017/10/6/stuff-the-internet-says-on-scalability-for-october-6th-2017.html
+
