@@ -19,3 +19,9 @@ http://highscalability.com/blog/2017/9/8/stuff-the-internet-says-on-scalability-
 > @slightlylate: So true. I'll trade 10 devs who are high on abstractions and metaprogramming for one who gives a damn about the user.
 
 http://highscalability.com/blog/2017/10/6/stuff-the-internet-says-on-scalability-for-october-6th-2017.html
+
+> Linus Torvalds: I think somebody inside of Intel needs to really take a long hard look at their CPU's, and actually admit that they have issues instead of writing PR blurbs that say that everything works as designed.
+
+> @mikegelhar: This quote is gold "Most benchmarks represent the first date experience not the marriage experience"
+
+http://highscalability.com/blog/2018/1/5/stuff-the-internet-says-on-scalability-for-january-5th-2017.html
