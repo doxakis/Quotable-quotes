@@ -25,3 +25,9 @@ http://highscalability.com/blog/2017/10/6/stuff-the-internet-says-on-scalability
 > @mikegelhar: This quote is gold "Most benchmarks represent the first date experience not the marriage experience"
 
 http://highscalability.com/blog/2018/1/5/stuff-the-internet-says-on-scalability-for-january-5th-2017.html
+
+> @mnewswanger: Breaking down requests for @StackOverflow web servers: Pre-Meltdown Patch -> Post Meltdown Patch (Increase %) Response time: 18ms -> 22ms (22%) Avg SQL Call: .73ms -> .83ms (13%) Avg Elastic Call: 12.56ms -> 19.71ms (57%) #Meltdown
+
+> @bitfield: This isn't a patch, this is like cutting your leg off to prevent someone stealing your toes.
+
+http://highscalability.com/blog/2018/1/12/stuff-the-internet-says-on-scalability-for-january-12th-2017.html
