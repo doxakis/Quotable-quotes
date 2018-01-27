@@ -31,3 +31,7 @@ http://highscalability.com/blog/2018/1/5/stuff-the-internet-says-on-scalability-
 > @bitfield: This isn't a patch, this is like cutting your leg off to prevent someone stealing your toes.
 
 http://highscalability.com/blog/2018/1/12/stuff-the-internet-says-on-scalability-for-january-12th-2017.html
+
+> @bascule: It's 2032: the Internet now runs at dialup speeds because the rest of the bandwidth is used for blockchains. We've gone back to candles because electricity that was used for lighting is now used for mining. 2D gaming is back in because GPUs are too expensive.
+
+http://highscalability.com/blog/2018/1/26/stuff-the-internet-says-on-scalability-for-january-26th-2018.html
