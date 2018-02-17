@@ -35,3 +35,11 @@ http://highscalability.com/blog/2018/1/12/stuff-the-internet-says-on-scalability
 > @bascule: It's 2032: the Internet now runs at dialup speeds because the rest of the bandwidth is used for blockchains. We've gone back to candles because electricity that was used for lighting is now used for mining. 2D gaming is back in because GPUs are too expensive.
 
 http://highscalability.com/blog/2018/1/26/stuff-the-internet-says-on-scalability-for-january-26th-2018.html
+
+> @bascule: BitGrail lost $170 million worth of Nano XRB tokens because... the checks for whether you had a sufficient balance to withdraw were only implemented as client-side JavaScript
+
+> Smári McCarthy: We [Iceland] are spending tens or maybe hundreds of megawatts on producing something [bitcoin] that has no tangible existence and no real use for humans outside the realm of financial speculation. That can't be good.
+
+> Steve Jobs: Everything in this world... was created by people no smarter than you.
+
+http://highscalability.com/blog/2018/2/16/stuff-the-internet-says-on-scalability-for-february-16th-201.html
