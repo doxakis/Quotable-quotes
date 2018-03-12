@@ -61,3 +61,11 @@ http://highscalability.com/blog/2018/2/16/stuff-the-internet-says-on-scalability
 > Swizec Teller: The correct response to “How do I scale my app?” is to wait and see and monitor. Your app will tell you where it hurts. Listen. Then fix.
 
 http://highscalability.com/blog/2018/3/2/stuff-the-internet-says-on-scalability-for-march-2nd-2018.html
+
+> @ValaAfshar: Jeff Bezos, CEO @amazon: I very frequently get the question: "what's going to change in the next 10 years?" I almost never get the question: "what's not going to change in the next 10 years?" I submit to you that the second question is actually the more important of the two.
+
+> @danluu: A creator of the C++ STL says they might've used more cache-friendly data structures if HP Labs had the budget to buy HP PA-RISC machines?
+
+> zie: In other words, put your documentation tools right alongside your normal workflow, so you have a decent chance of actually using it, keeping it up to date, and having others on your team(s) also use it. We put our docs in the repo's right alongside the code that manages the infrastructure.. in plain text. It's versioned. We don't publish it anywhere, it's just in the repo, but then we spend most of our time in editors messing in that repo.
+
+http://highscalability.com/blog/2018/3/9/stuff-the-internet-says-on-scalability-for-march-9th-2018.html
