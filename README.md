@@ -43,3 +43,21 @@ http://highscalability.com/blog/2018/1/26/stuff-the-internet-says-on-scalability
 > Steve Jobs: Everything in this world... was created by people no smarter than you.
 
 http://highscalability.com/blog/2018/2/16/stuff-the-internet-says-on-scalability-for-february-16th-201.html
+
+> @brettberson: I just learned from a former longtime Amazon employee, the idea for Prime came from an IC [individual contributor] engineer. He wrote up a 6 page memo. He was inspired by the Costco membership model. It was built as a test. It's now the key pillar of Amazon. The best ideas can come from anywhere.
+
+> @geofft: At which point Trustico's CEO decided to EMAIL 23,000 CUSTOMER PRIVATE KEYS to Digicert, apparently in order to trigger that clause.
+
+> @sama: I wonder how much cryptocurrency is slowing the rate of AI progress by wildly driving up the price of GPUs...
+
+> @ykanellopoulos: "You can use an eraser on the table or a sledgehammer in the construction site". So much for finding bugs in production and not during design or even development.  Quote from the architect Frank Lloyd Wright brought up by @r0ml in #OReillySACon.
+
+> @mokargas: Over a time-span of say, 4 years, any sizeable company will have projects using Grunt, Gulp, Webpack, NPM vanilla or some combination of those. Fire up any sort of legacy project, let's say, a year old, and it won't work. Require hours of troubleshooting.
+
+> @marcoarment: I wonder how many iOS apps are secretly burning their users’ CPUs and batteries to mine Bitcoin as a revenue stream. Whatever the number is, I bet it gets much higher this year as developers and ad networks get more desperate and it becomes “standard” practice to ad-tech people.
+
+> @CubanAnalyst: Generally this is how new ideas form in companies. It's not the CEOs or major shareholders who come up with new business dev/product/process ideas. It's usually the employees who come up with the ideas & of course implement them. Another reason why worker cooperatives make sense.
+
+> Swizec Teller: The correct response to “How do I scale my app?” is to wait and see and monitor. Your app will tell you where it hurts. Listen. Then fix.
+
+http://highscalability.com/blog/2018/3/2/stuff-the-internet-says-on-scalability-for-march-2nd-2018.html
