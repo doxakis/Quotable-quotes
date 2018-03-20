@@ -69,3 +69,15 @@ http://highscalability.com/blog/2018/3/2/stuff-the-internet-says-on-scalability-
 > zie: In other words, put your documentation tools right alongside your normal workflow, so you have a decent chance of actually using it, keeping it up to date, and having others on your team(s) also use it. We put our docs in the repo's right alongside the code that manages the infrastructure.. in plain text. It's versioned. We don't publish it anywhere, it's just in the repo, but then we spend most of our time in editors messing in that repo.
 
 http://highscalability.com/blog/2018/3/9/stuff-the-internet-says-on-scalability-for-march-9th-2018.html
+
+> Joel Hruska: In all cases, the pirated version of the [Final Fantasy XV] was faster, by 5 percent to a whopping 33 percent, depending on the scene...The implications of these findings are straightforward: The piracy protections baked into the game are hitting overall performance, causing a significant set of issues. Companies regularly deny it happens, but tests like this punch holes in such claims.
+
+> John Allspaw: The increasing significance of our systems, the increasing potential for economic, political, and human damage when they don’t work properly, the proliferation of dependencies and associated uncertainty — all make me very worried. And, if you look at your own system and its problems, I think you will agree that we need to do more than just acknowledge this — we need to embrace it.
+
+> @SwiftOnSecurity: "Hey my self-driving car stops when it sees a dog" "We don't support dogs." "What?" "We couldn't figure out how to predict where dogs are going. But don't worry, we handle it safely now." "By stopping?" "AND waiting for the dog to leave. This is all explained in the patch notes."
+
+> @mweagle : “Any architecture that enables fewer developers to accomplish more and spend less time on operational maintenance is worth thinking hard about.” (via @Pocket) #longreads
+
+> @iancassel~ "If you want to make a difference in this world you will endure more pain than those who don't. Increase your threshold for pain and criticism. " -- Elon Musk SXSW 2018
+
+http://highscalability.com/blog/2018/3/16/stuff-the-internet-says-on-scalability-for-march-16th-2018.html
